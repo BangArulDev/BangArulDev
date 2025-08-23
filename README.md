@@ -4,7 +4,9 @@
 - Currently studying **Computer Science (S1)** at **Universitas An Nuur**  
 - A passionate **Web Developer**  
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BangArulDev&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BangArulDev&theme=tokyonight" height="180"/>
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BangArulDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BangArulDev&layout=compact&theme=algolia"/>
+</a>
 </p>
