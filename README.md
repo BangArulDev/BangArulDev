@@ -1,73 +1,64 @@
-# 🏰 Adventure Log: BangArulDev
+```bash
+#  ____             _       _             _ ____
+# | __ )  __ _ _ __(_)     / \   _ __ ___| |  _ \  _____   __
+# |  _ \ / _` | '__| |    / _ \ | '__/ __| | | | |/ _ \ \ / /
+# | |_) | (_| | |  | |   / ___ \| | | (__| | |_| |  __/\ V /
+# |____/ \__,_|_|  |_|  /_/   \_\_|  \___|_|____/ \___| \_/
+#
 
-<div align="center">
+user@BangArulDev:~$ whoami
+> Creative Developer | Tech Enthusiast | Problem Solver
 
-![Character Avatar](https://github.com/BangArulDev.png?size=200)
+user@BangArulDev:~$ neofetch
+----------------------------------
+OS: GitHub Profile v2.0
+Host: World Wide Web
+Kernel: Fullstack Developer
+Uptime: Coding since 20XX
+Packages: 50+ (Repositories)
+Shell: Zsh / Bash
+Resolution: 1920x1080 (Visionary)
+Theme: Dark Mode (Always)
+CPU: Coffee-Driven Neural Engine
+GPU: High-Performance Rendering
+Memory: Infinite Learning Capacity
 
-**Class**: `Fullstack Technomancer` | **Level**: `MAX` | **Guild**: `Open Source`
+user@BangArulDev:~$ cat skills.txt
+[+] Languages:
+    - JavaScript / TypeScript
+    - Python
+    - PHP
+    - HTML/CSS (SCSS, Tailwind)
 
-</div>
+[+] Frameworks & Libraries:
+    - React.js / Next.js
+    - Node.js / Express
+    - Laravel
+    - Flutter (Dart)
 
----
+[+] Tools:
+    - Git / GitHub
+    - VS Code
+    - Docker
+    - Postman
 
-## 📜 Character Stats
+user@BangArulDev:~$ ./show-projects.sh
+Execution permissions granted...
+Loading projects...
 
-| Attribute              | Level | Description                                                    |
-| :--------------------- | :---: | :------------------------------------------------------------- |
-| **INT (Intelligence)** | `99`  | Knowledge of algorithms, data structures, and complex systems. |
-| **DEX (Dexterity)**    | `85`  | Typing speed and rapid prototyping capabilities.               |
-| **VIT (Vitality)**     |  `∞`  | Ability to debug for hours on coffee alone.                    |
-| **WIS (Wisdom)**       | `90`  | Code architecture and best practices.                          |
-| **CHA (Charisma)**     | `75`  | Documentation and team collaboration.                          |
+[1] Smart UMKM Dashboard
+    - Status: [ACTIVE]
+    - Stack: Next.js, Tailwind, JSON Server
+    - Desc: Empowering local businesses with digital tools.
 
----
+[2] KSP Village Cooperative
+    - Status: [DEPLOYED]
+    - Stack: Next.js, Supabase, TypeScript
+    - Desc: Modernizing village finance systems.
 
-## 🎒 Inventory (Tech Stack)
+user@BangArulDev:~$ contact --email
+> [email protected] (Replace with actual email)
 
-### ⚔️ Main Hand (Languages)
-
-- **Blade of JavaScript**: `Mastery Level 5` (Versatile, fast)
-- **Staff of Python**: `Mastery Level 4` (Powerful scripting)
-- **Dart Gun**: `Mastery Level 3` (Mobile ranged attacks)
-
-### 🛡️ Off Hand (Frameworks)
-
-- `[React.js Shield]` - Protection against DOM manipulation.
-- `[Next.js Armor]` - Speed +10, SEO +20.
-- `[Laravel Cloak]` - Backend stealth and security.
-- `[Supabase Amulet]` - Instant database mana.
-
-### 🧪 Potions (Tools)
-
-`[Git]` `[Docker]` `[VS Code]` `[Postman]` `[Figma]`
-
----
-
-## 🗺️ Quest Log (Current Projects)
-
-### 🛡️ **Quest: The Smart UMKM Dashboard**
-
-> _Assist the local merchants in managing their inventory._
-
-- **Status**: `In Progress` 🟡
-- **Rewards**: Experience +500, Community Reputation +100
-- **Loot**: Responsive UI, JSON Server API.
-
-### 🏰 **Quest: Fortress of KSP (Cooperative)**
-
-> _Digitize the ancient ledger of the Village Cooperative._
-
-- **Status**: `Completed` 🟢
-- **Rewards**: Gold +1000, Deployment Skill Unlocked.
-- **Loot**: Next.js App, TypeScript proficiency.
-
----
-
-## 💬 Summoning Ritual
-
-To summon **BangArulDev** for a party or raid:
-
-- Cast logic spell at: `[email protected]`
-- Teleport to: [LinkedIn](#) | [Instagram](#)
-
-> _"It's dangerous to go alone! Take this code with you."_
+user@BangArulDev:~$ shutdown -h now
+> System halting... Thanks for visiting!
+```
