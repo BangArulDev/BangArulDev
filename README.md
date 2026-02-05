@@ -20,7 +20,6 @@
 - 🌱 I’m currently learning **Advanced Backend Architecture**.
 - 🏫 Currently studying **Computer Science (S1)** at **Universitas An Nuur**.
 - 💬 Ask me about **JavaScript, PHP, Python, and Modern Web Tech**.
-- 📫 How to reach me: **[email protected]**
 
 ---
 
