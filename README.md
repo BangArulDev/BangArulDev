@@ -1,73 +1,73 @@
-# ⚠ RESTRICTED_ACCESS // TOP SECRET ⚠
+# 🏰 Adventure Log: BangArulDev
 
-**SUBJECT:** `BangArulDev`
-**CODENAME:** `The Architect`
-**CLEARANCE:** `LEVEL 5`
+<div align="center">
 
----
+![Character Avatar](https://github.com/BangArulDev.png?size=200)
 
-## 📂 FILE_CONTENT: `bio_data.enc`
+**Class**: `Fullstack Technomancer` | **Level**: `MAX` | **Guild**: `Open Source`
 
-> **WARNING:** UNAUTHORIZED ACCESS WILL BE LOGGED.
-
-**Identity:** `[REDACTED]`
-**Origin:** `Indonesia`
-**Mission:** Building scalable, `[CORRUPTED]` systems and digital infrastructure.
-**Status:** **OPERATIONAL**
-
-```diff
-+ CONNECTING TO SERVER...
-+ DECRYPTING SKILL MATRIX...
-- ERROR: SOME DATA CORRUPTED
-```
-
-## 💾 DECRYPTED_ASSETS (Tech Stack)
-
-> _Data fragments recovered from sector 7G:_
-
-- **Languages:** `J___Script` (98% Integrity), `Py__on`, `T__eScript`.
-- **Frameworks:** `<Next.js>`, `<React>`, `<Laravel>`.
-- **Database:** `Supabase` (Secure Link Established).
-
-## 🕵️ PROJECT_DOSSIERS
-
-<details>
-<summary>▶ <strong>CLICK TO REVEAL: PROJECT_UMKM (Alpha)</strong></summary>
-
-> **Objective:** Empower local economic units.
-> **Tech:** Next.js, JSON Server.
-> **Status:** Active development. Subterfuge detected in CSS modules.
-
-</details>
-
-<details>
-<summary>▶ <strong>CLICK TO REVEAL: PROJECT_KSP (Deployment)</strong></summary>
-
-> **Objective:** Financial digitization of cooperative entities.
-> **Tech:** TypeScript, Tailwind.
-> **Status:** Mission Accomplished.
-
-</details>
-
-<details>
-<summary>▶ <strong>CLICK TO REVEAL: [REDACTED_API]</strong></summary>
-
-> **Objective:** █ █ █ █ █ █ █ █ █ █ █ █
-> **Tech:** █ █ █ █ █
-> **Status:** █ █ █ █ █ █
-
-</details>
+</div>
 
 ---
 
-## 📡 SECURE_COMM_CHANNELS
+## 📜 Character Stats
 
-If you are reading this, the firewall has been breached.
-Drop a payload at:
-`[email protected]`
+| Attribute              | Level | Description                                                    |
+| :--------------------- | :---: | :------------------------------------------------------------- |
+| **INT (Intelligence)** | `99`  | Knowledge of algorithms, data structures, and complex systems. |
+| **DEX (Dexterity)**    | `85`  | Typing speed and rapid prototyping capabilities.               |
+| **VIT (Vitality)**     |  `∞`  | Ability to debug for hours on coffee alone.                    |
+| **WIS (Wisdom)**       | `90`  | Code architecture and best practices.                          |
+| **CHA (Charisma)**     | `75`  | Documentation and team collaboration.                          |
 
-**SYSTEM MESSAGE:**
+---
 
-> _Reality is just a parsed JSON file. Wake up, user._
+## 🎒 Inventory (Tech Stack)
 
-<!-- SYSTEM END OF FILE -->
+### ⚔️ Main Hand (Languages)
+
+- **Blade of JavaScript**: `Mastery Level 5` (Versatile, fast)
+- **Staff of Python**: `Mastery Level 4` (Powerful scripting)
+- **Dart Gun**: `Mastery Level 3` (Mobile ranged attacks)
+
+### 🛡️ Off Hand (Frameworks)
+
+- `[React.js Shield]` - Protection against DOM manipulation.
+- `[Next.js Armor]` - Speed +10, SEO +20.
+- `[Laravel Cloak]` - Backend stealth and security.
+- `[Supabase Amulet]` - Instant database mana.
+
+### 🧪 Potions (Tools)
+
+`[Git]` `[Docker]` `[VS Code]` `[Postman]` `[Figma]`
+
+---
+
+## 🗺️ Quest Log (Current Projects)
+
+### 🛡️ **Quest: The Smart UMKM Dashboard**
+
+> _Assist the local merchants in managing their inventory._
+
+- **Status**: `In Progress` 🟡
+- **Rewards**: Experience +500, Community Reputation +100
+- **Loot**: Responsive UI, JSON Server API.
+
+### 🏰 **Quest: Fortress of KSP (Cooperative)**
+
+> _Digitize the ancient ledger of the Village Cooperative._
+
+- **Status**: `Completed` 🟢
+- **Rewards**: Gold +1000, Deployment Skill Unlocked.
+- **Loot**: Next.js App, TypeScript proficiency.
+
+---
+
+## 💬 Summoning Ritual
+
+To summon **BangArulDev** for a party or raid:
+
+- Cast logic spell at: `[email protected]`
+- Teleport to: [LinkedIn](#) | [Instagram](#)
+
+> _"It's dangerous to go alone! Take this code with you."_
