@@ -1,64 +1,64 @@
-```bash
-#  ____             _       _             _ ____
-# | __ )  __ _ _ __(_)     / \   _ __ ___| |  _ \  _____   __
-# |  _ \ / _` | '__| |    / _ \ | '__/ __| | | | |/ _ \ \ / /
-# | |_) | (_| | |  | |   / ___ \| | | (__| | |_| |  __/\ V /
-# |____/ \__,_|_|  |_|  /_/   \_\_|  \___|_|____/ \___| \_/
-#
+# 🏰 Adventure Log: Amrully Arun Hadi
 
-user@BangArulDev:~$ whoami
-> Creative Developer | Tech Enthusiast | Problem Solver
+<div align="center">
 
-user@BangArulDev:~$ neofetch
-----------------------------------
-OS: GitHub Profile v2.0
-Host: World Wide Web
-Kernel: Fullstack Developer
-Uptime: Coding since 20XX
-Packages: 50+ (Repositories)
-Shell: Zsh / Bash
-Resolution: 1920x1080 (Visionary)
-Theme: Dark Mode (Always)
-CPU: Coffee-Driven Neural Engine
-GPU: High-Performance Rendering
-Memory: Infinite Learning Capacity
+![Character Avatar](https://github.com/BangArulDev.png?size=200)
 
-user@BangArulDev:~$ cat skills.txt
-[+] Languages:
-    - JavaScript / TypeScript
-    - Python
-    - PHP
-    - HTML/CSS (SCSS, Tailwind)
+**Class**: `Web Developer` | **Guild**: `Universitas An Nuur` | **Level**: `CS Student (S1)`
 
-[+] Frameworks & Libraries:
-    - React.js / Next.js
-    - Node.js / Express
-    - Laravel
-    - Flutter (Dart)
+</div>
 
-[+] Tools:
-    - Git / GitHub
-    - VS Code
-    - Docker
-    - Postman
+---
 
-user@BangArulDev:~$ ./show-projects.sh
-Execution permissions granted...
-Loading projects...
+## 📜 Character Data (Stats)
 
-[1] Smart UMKM Dashboard
-    - Status: [ACTIVE]
-    - Stack: Next.js, Tailwind, JSON Server
-    - Desc: Empowering local businesses with digital tools.
+> _Current power configuration retrieved from the server..._
 
-[2] KSP Village Cooperative
-    - Status: [DEPLOYED]
-    - Stack: Next.js, Supabase, TypeScript
-    - Desc: Modernizing village finance systems.
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BangArulDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="170" alt="Stats Board" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BangArulDev&layout=compact&theme=algolia" height="170" alt="Language Proficiency" />
+</div>
 
-user@BangArulDev:~$ contact --email
-> [email protected] (Replace with actual email)
+---
 
-user@BangArulDev:~$ shutdown -h now
-> System halting... Thanks for visiting!
-```
+## 🎒 Inventory (Tech Stack)
+
+### ⚔️ Main Hand (Languages)
+
+- **Blade of PHP & Python**: `Essential`
+- **Wand of JavaScript**: `Versatile`
+- **Scrolls of HTML/CSS**: `Fundamental`
+
+### 🛡️ Off Hand (Frameworks)
+
+- `[React.js Shield]` - Frontend defense.
+- `[Next.js Armor]` - Speed boost logic.
+- `[Laravel Cloak]` - Backend structure.
+
+---
+
+## 🗺️ Quest Log (Current Projects)
+
+### 🛡️ **Quest: The Smart UMKM Dashboard**
+
+> _Assist the local merchants in managing their inventory._
+
+- **Status**: `In Progress` 🟡
+- **Rewards**: Experience +500
+
+### 🏰 **Quest: Fortress of KSP (Cooperative)**
+
+> _Digitize the ancient ledger of the Village Cooperative._
+
+- **Status**: `Completed` 🟢
+- **Rewards**: Deployment Skill Unlocked.
+
+---
+
+## 💬 Summoning Ritual
+
+To summon **Amrully** for a party or raid:
+
+- **Teleport:** [LinkedIn](#) | [Instagram](#)
+
+> _"It's dangerous to go alone! Take this code with you."_
