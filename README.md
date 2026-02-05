@@ -33,7 +33,7 @@ I have configured this to show **all** programming languages detected in your re
     <!-- Main Stats Card -->
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BangArulDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="BangArulDev's Github Stats"/>
     
-    <!-- Top Languages Card - Configured with langs_count=20 to show ALL languages -->
+  Top Languages Card - Configured with langs_count=20 to show ALL language
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BangArulDev&layout=compact&theme=algolia&langs_count=20&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
