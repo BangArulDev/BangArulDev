@@ -25,8 +25,6 @@
 
 ## 💻 Languages & Statistics
 
-I have configured this to show **all** programming languages detected in your repositories.
-
 <div align="center">
   <a href="https://github.com/BangArulDev">
     <!-- Main Stats Card -->
